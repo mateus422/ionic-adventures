@@ -37,7 +37,7 @@ Now we have a bunch of articles to get you covered in many topics related to Ion
 - [Introdução ao Ionic Framework](http://tableless.com.br/introducao-ao-ionic-framework/) by @grillorafael
 `CLI`
 - [Example of Ionic’s Updating Feature](http://www.raymondcamden.com/2015/03/11/example-of-ionics-updating-feature) by @raymondcamden
-
+- [Introdução ao Ionic Framework](http://tableless.com.br/introducao-ao-ionic-framework/) by @grillorafael
 `Comparison`
 - [The Top 7 Hybrid Mobile App Frameworks](http://www.sitepoint.com/top-7-hybrid-mobile-app-frameworks/) by @jay3dec
 
